@@ -29,6 +29,11 @@ como **Cloudflare Worker**, e não como um site estático do Pages.
    npm run deploy:cloudflare
    ```
 
+   No painel **Workers Builds**, configure o comando de implantação como
+   `npm run deploy:cloudflare`. Não use `npx wrangler deploy` sem o arquivo de
+   configuração e não aceite a migração automática para OpenNext: este projeto
+   já utiliza Vinext e o adaptador nativo da Cloudflare.
+
 5. No painel Cloudflare, vincule o domínio personalizado:
 
    `app.ciclomob.cuidadosdamulher.com.br`
