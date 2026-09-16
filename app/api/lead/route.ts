@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 
 const functionUrl = "https://heglcvgpverqfmqpdyok.supabase.co/functions/v1/ciclo-mob-lead";
 const defaultOrigins = [
-  "https://app.ciclomob.cuidadosdamulher.com.br",
+  "https://ciclomob.cuidadosdamulher.com.br",
   "https://ciclo-mob.guilhermepps.chatgpt.site",
 ];
 

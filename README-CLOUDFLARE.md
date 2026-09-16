@@ -36,7 +36,7 @@ como **Cloudflare Worker**, e não como um site estático do Pages.
 
 5. No painel Cloudflare, vincule o domínio personalizado:
 
-   `app.ciclomob.cuidadosdamulher.com.br`
+   `ciclomob.cuidadosdamulher.com.br`
 
 ## Domínios permitidos no formulário
 
@@ -47,7 +47,7 @@ com URLs separadas por vírgula, sempre incluindo `https://` e sem barra final.
 Exemplo:
 
 ```text
-https://app.ciclomob.cuidadosdamulher.com.br,https://www.ciclomob.com.br
+https://ciclomob.cuidadosdamulher.com.br,https://www.ciclomob.com.br
 ```
 
 ## Verificação
