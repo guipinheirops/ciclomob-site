@@ -12,3 +12,9 @@
 - Formulário da isca digital e PDF mantidos.
 - Domínio sugerido para a landing: https://ciclomob.cuidadosdamulher.com.br
 - App permanece em: https://app.ciclomob.cuidadosdamulher.com.br
+
+## 23/09/2026 — Telas v64 e calendário
+- Atualizadas as telas Hoje, Meu ciclo e Aprender com capturas reais do aplicativo v64 fornecido, em tema escuro.
+- Nova seção Calendário, com captura da interface e legendas Fértil e Liberado, usando dados fictícios de demonstração.
+- Preservados os três links Cakto, o formulário, o guia e a ausência de link de acesso ao app.
+- As marcações ilustram o funcionamento da interface e não garantem ausência de risco de gravidez.
