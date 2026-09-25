@@ -18,3 +18,10 @@
 - Nova seção Calendário, com captura da interface e legendas Fértil e Liberado, usando dados fictícios de demonstração.
 - Preservados os três links Cakto, o formulário, o guia e a ausência de link de acesso ao app.
 - As marcações ilustram o funcionamento da interface e não garantem ausência de risco de gravidez.
+
+## 25/09/2026 — v70
+- Prints Hoje, Ciclo, Calendário e Aprender atualizados com dados fictícios variados.
+- Plano trimestral: R$ 29,90/mês; R$ 89,70 a cada 3 meses.
+- Removida a menção visível ao provedor de pagamento.
+- Favicon quadrado da identidade v70, sem distorção.
+- Checkout do segundo plano preservado: confirmar cobrança trimestral no provedor antes de publicar.
